@@ -5,10 +5,43 @@ Rename this file in the format `yourRollNumber_solution.md` (example, `220000_so
 
 ## Your zeroth approach below
 
-Reasoning - %%% Type your approach here %%%
+Reasoning -exported all files to github and vs then run in vs given ans is output of "man" run in terminal.
 
 ```
-%%% Replace this with the 0th challenge answer %%%
+TOPIC
+    Windows PowerShell Help System
+
+SHORT DESCRIPTION
+    Displays help about Windows PowerShell cmdlets and concepts. 
+
+LONG DESCRIPTION
+    Windows PowerShell Help describes Windows PowerShell cmdlets,
+    functions, scripts, and modules, and explains concepts, including
+    the elements of the Windows PowerShell language.
+
+    Windows PowerShell does not include help files, but you can read the
+    help topics online, or use the Update-Help cmdlet to download help files
+    to your computer and then use the Get-Help cmdlet to display the help
+    topics at the command line.
+
+    You can also use the Update-Help cmdlet to download updated help files
+    as they are released so that your local help content is never obsolete. 
+
+    Without help files, Get-Help displays auto-generated help for cmdlets, 
+    functions, and scripts.
+
+
+  ONLINE HELP    
+    You can find help for Windows PowerShell online in the TechNet Library
+    beginning at http://go.microsoft.com/fwlink/?LinkID=108518. 
+
+    To open online help for any cmdlet or function, type:
+
+        Get-Help <cmdlet-name> -Online    
+
+  UPDATE-HELP
+    To download and install help files on your computer:
+-- More  --
 ```
 
 ---
