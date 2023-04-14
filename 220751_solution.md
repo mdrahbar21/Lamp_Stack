@@ -59,7 +59,7 @@ Reasoning - %%% Type your approach here %%%
 ## Your second approach below (strings.txt)
 
 Reasoning - Downloaded Lamp_Stack_Task.zip then opened it in gitbash by cd command
-triead a lot of commands like ls cat find file nothing worked so tried to unzip it with command   unzip -j Lamp_Stack_Task.zip
+tried a lot of commands like ls cat find file nothing worked so tried to unzip it with command   unzip -j Lamp_Stack_Task.zip
 then extracted all files found strings.txt by ls 
 used cat strings.txt got this
 
@@ -72,10 +72,10 @@ TqMuGims7vlJtno
 8dc2evcCSSc4kUy (password)
 and using grep -R command found their locations 
 like 1- final.txt and six.txt
-2-five.txt and three.txt
-3-final.txt and seven.txt
-4-eight.txt and final.txt
-5-five.txt and one.txt
+2-five.txt and three.txt    
+3-final.txt and seven.txt        
+4-eight.txt and final.txt      
+5-five.txt and one.txt      
 6-final.txt and ten.txt
 7-eleven.txt and final.txt
 
@@ -84,8 +84,8 @@ like 1- final.txt and six.txt
 Reasoning - unziped fourth.txt using the same command unzip -j fourth.zip
 password was eleven.txt
 
-tried using grep -R DevOps 
-got 0.txt !
+tried using grep -R DevOps   
+got 0.txt !          
 confirmed by cat 0.txt too
 
 hence 0.txt has a string of the form DevOps{...} in some file in this directory system I extracted.
