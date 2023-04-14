@@ -6,7 +6,7 @@ Rename this file in the format `yourRollNumber_solution.md` (example, `220000_so
 ## Your zeroth approach below
 
 Reasoning -exported all files to github and vs then run in vs given ans is output of "man" run in terminal.
-
+below was the output
 ```
 TOPIC
     Windows PowerShell Help System
@@ -58,29 +58,43 @@ Reasoning - %%% Type your approach here %%%
 
 ## Your second approach below (strings.txt)
 
-Reasoning - %%% Type your approach here %%%
+Reasoning - Downloaded Lamp_Stack_Task.zip then opened it in gitbash by cd command
+triead a lot of commands like ls cat find file nothing worked so tried to unzip it with command   unzip -j Lamp_Stack_Task.zip
+then extracted all files found strings.txt by ls 
+used cat strings.txt got this
 
-```
-%%% Replace this with the 2nd challenge answer %%%
-```
-
----
+---kw4QLNylm2inErX
+DabAWF1UenBD2W
+kPVEQPc6ZN8x2jn
+g4JoMqFZyat9vd5
+ORNwuwGtKDLydge
+TqMuGims7vlJtno
+8dc2evcCSSc4kUy (password)
+and using grep -R command found their locations 
+like 1- final.txt and six.txt
+2-five.txt and three.txt
+3-final.txt and seven.txt
+4-eight.txt and final.txt
+5-five.txt and one.txt
+6-final.txt and ten.txt
+7-eleven.txt and final.txt
 
 ## Your third approach below (fourth.zip)
 
-Reasoning - %%% Type your approach here %%%
+Reasoning - unziped fourth.txt using the same command unzip -j fourth.zip
+password was eleven.txt
 
-```
-%%% Replace this with the 3rd challenge answer %%%
-```
+tried using grep -R DevOps 
+got 0.txt !
+confirmed by cat 0.txt too
 
----
+hence 0.txt has a string of the form DevOps{...} in some file in this directory system I extracted.
 
 
-- Name :
-- Roll :
-- GitHub username:
-- Discord username:
+- Name :Panuganti Neha
+- Roll :220751
+- GitHub username:pneha22
+- Discord username:Neha Panuganti#5061
 
 
 ## Do not tamper below this line
