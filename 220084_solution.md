@@ -15,10 +15,13 @@ Reasoning - %%% Type your approach here %%%
 
 ## Your first approach below (first.txt)
 
-Reasoning - %%% Type your approach here %%%
+Reasoning - %%% cat first.txt
+  Then we get long string of random characters.
+  copy the string and decode/ decrypt it using https://www.dcode.fr/cipher-identifier website
+  what it does is changes the ascii values of characters and sees if something readable sentence comes or not.%%%
 
 ```
-%%% Replace this with the 1st challenge answer %%%
+%%% noicee you did crack a rotation encryption on your own. The following is a clue for the next puzzle: CLASS of that INPUT %%%
 ```
 
 ---
@@ -44,8 +47,8 @@ Reasoning - %%% Type your approach here %%%
 ---
 
 
-- Name :
-- Roll :
+- Name :Adwait Kadam
+- Roll :220084
 - GitHub username:
 - Discord username:
 
