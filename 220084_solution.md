@@ -28,7 +28,7 @@ Reasoning - %%% Type your approach here %%%
 Reasoning - %%% Type your approach here %%%
 
 ```
-%%% Replace this with the 2nd challenge answer %%%
+%%% File Location A is~/…/Lamp_Stack/Lamp_Stack_task/question_mark/Lamp_Stack %%%
 ```
 
 ---
