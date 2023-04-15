@@ -49,8 +49,8 @@ Reasoning - %%% Type your approach here %%%
 
 - Name :Adwait Kadam
 - Roll :220084
-- GitHub username:
-- Discord username:
+- GitHub username:Adwait1609
+- Discord username:Adwait_1609#8347
 
 
 ## Do not tamper below this line
